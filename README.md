@@ -1,6 +1,8 @@
 # myapp
 
 A new Flutter project.
+## salida de stack
+- ![image](https://github.com/user-attachments/assets/61a03210-2e09-4bc2-bf5c-7d24f56caa00)
 
 ## Getting Started
 
